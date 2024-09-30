@@ -83,7 +83,9 @@ class LogicGate:
         else:
             self.out = 0
             return 0
-        
+
+
+    # XOR Gate is more complex than the basic gates so we use multiple basic gates to implement this.     
     def xorGate(self,x1,x2):
         self.x1 = x1
         self.x2 = x2
@@ -102,6 +104,7 @@ if(__name__ == '__main__'):
     print("Hello World, This is the basic logicGates101.")
     print("You can use this file to learn Basic logic gates like: AND, OR, NAND, NOR, and XOR")
 
+    # Modify the below code to change the gates and inputs.
     #Sample usage
     logicGate = LogicGate()
     logicGate.andGate(1,1)
