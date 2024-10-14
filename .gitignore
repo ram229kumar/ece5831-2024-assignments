@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# .zip
+*.zip
+
+# sample extensions
+05/samples
+
+# avi extensions
+*.avi
+
 # Distribution / packaging
 .Python
 build/
