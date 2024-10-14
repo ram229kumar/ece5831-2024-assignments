@@ -4,10 +4,16 @@ import tensorflow as tf
 
 # Function to load class names from labels.txt
 def load_labels(label_file):
+    """
+    Loads the labels from the labels.txt
+    """
     with open(label_file, 'r') as f:
         class_names = f.read().splitlines()
     return class_names
 
+"""
+Loads the pretrained model.
+"""
 # Load the trained model from Teachable Machine
 model = tf.keras.models.load_model('keras_model.h5')
 
@@ -19,6 +25,10 @@ cap = cv2.VideoCapture(0)
 
 # Set up video writer to save the video feed
 # Define the codec and create VideoWriter object (output filename, codec, fps, frame size)
+
+"""
+This part of code is for storing the live feed and saves it in rock-paper-scissors-output.avi
+"""
 fourcc = cv2.VideoWriter_fourcc(*'XVID')  # Codec (XVID is a popular choice)
 out = cv2.VideoWriter('rock-paper-scissors-output.avi', fourcc, 20.0, (640, 480))  # (filename, codec, fps, resolution)
 
@@ -52,6 +62,9 @@ while cap.isOpened():
     out.write(frame)
 
     # Break the loop on 'q' key press
+    """
+    Please press  'q' to quit the real time feed.
+    """
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
