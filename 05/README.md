@@ -54,4 +54,4 @@ python rock-paper-scissors-live.py
 
 You can press `q` to stop the real time feed.
 
-#### Youtube Link :(Yet to be updated.)
+#### Youtube Link : ([Link](https://youtu.be/FYHRKWBeXyA))
