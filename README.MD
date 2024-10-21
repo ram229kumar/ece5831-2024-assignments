@@ -6,8 +6,10 @@
 
 ## Assignmnet - 3 Completed on October 2nd 2024 -> Scored 95/100
 
-## Assignment - 4 Completed on October 7th 2024
+## Assignment - 4 Completed on October 7th 2024 -> Scored 100/100
 
 ## Assignment - 5 Completed on October 14th 2024
+
+## Assignment - 6 Completed on October 21th 2024
 
 By Ram Kumar Ippili
