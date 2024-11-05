@@ -8,8 +8,10 @@
 
 ## Assignment - 4 Completed on October 7th 2024 -> Scored 100/100
 
-## Assignment - 5 Completed on October 14th 2024
+## Assignment - 5 Completed on October 14th 2024 -> Scored 100/100
 
-## Assignment - 6 Completed on October 21th 2024
+## Assignment - 5-2 Completed on October 21th 2024 -> Scored 100/100
+
+## Assignment - 5-3 Completed on November 4th 2024 -> Yet to be scored
 
 By Ram Kumar Ippili
