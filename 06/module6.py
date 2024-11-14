@@ -47,8 +47,8 @@ if y_hat == int(arg2):
     print(f'Success: Image {arg1} is for digit {arg2} is recognized as {y_hat}.')
 else:
     print(f'Fail: Image {arg1} is for digit {arg2} but the inference result is {y_hat}.')
-# imagePath = os.path.join(mnist.image_files[file],img)
-# imgOpen = Image.open(imagePath).convert('L')
-# plt.imshow(imgOpen,cmap="gray")
-# plt.title(f"Expected: {arg2}, Predicted: {y_hat}")
-# plt.show()
+imagePath = os.path.join(mnist.image_files[file],img)
+imgOpen = Image.open(imagePath).convert('L')
+plt.imshow(imgOpen,cmap="gray")
+plt.title(f"Expected: {arg2}, Predicted: {y_hat}")
+plt.show()
