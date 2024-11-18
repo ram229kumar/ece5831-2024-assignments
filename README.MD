@@ -16,4 +16,6 @@
 
 ## Assignment - 6 Completed on November 13th 2024 -> Yet to be graded
 
+## Assignment - 8 Completed on November 18th 2024 -> Yet to be graded
+
 By Ram Kumar Ippili
