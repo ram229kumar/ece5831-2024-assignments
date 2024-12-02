@@ -12,10 +12,12 @@
 
 ## Assignment - 5-2 Completed on October 21th 2024 -> Scored 100/100
 
-## Assignment - 5-3 Completed on November 4th 2024 -> Yet to be graded
+## Assignment - 5-3 Completed on November 4th 2024 -> Scored 100/100
 
-## Assignment - 6 Completed on November 13th 2024 -> Yet to be graded
+## Assignment - 6 Completed on November 13th 2024 -> Scored 90/100
 
-## Assignment - 8 Completed on November 18th 2024 -> Yet to be graded
+## Assignment - 8 Completed on November 18th 2024 -> Scored 95/100
+
+## Assignment - 10 Completed on December 1st 2024 -> Yet to be graded
 
 By Ram Kumar Ippili

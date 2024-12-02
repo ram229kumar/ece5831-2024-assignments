@@ -12,6 +12,11 @@ __pycache__/
 # sample extensions
 05/samples
 
+# Ignore the dogs&cats images
+10/dogs-vs-cats-original/
+10/dogs-vs-cats/
+10/model.0*-*.keras
+
 # avi extensions
 *.avi
 
