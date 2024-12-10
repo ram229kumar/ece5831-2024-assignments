@@ -5,6 +5,9 @@ from keras import layers
 import matplotlib.pyplot as plt
 
 class Imdb:
+
+    """ A class to handle binary classification tasks using the IMDB dataset."""
+
     def __init__(self):
         self.DIMENSIONS = 10000
         self.NUM_EPOCHS=20

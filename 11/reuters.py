@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 from keras.utils import to_categorical
 
 class Reuters:
+
+    """A class to handle multiclass classification tasks using the Reuters dataset."""
+
     def __init__(self):
         self.DIMENSIONS = 10000
         self.NUM_CLASSES = 46
