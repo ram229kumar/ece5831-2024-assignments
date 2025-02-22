@@ -18,8 +18,8 @@
 
 ## Assignment - 8 Completed on November 18th 2024 -> Scored 95/100
 
-## Assignment - 10 Completed on December 1st 2024 -> Yet to be graded
+## Assignment - 10 Completed on December 1st 2024 -> Scored 98/100
 
-## Assignment - 11 Completed on December 9th 2024 -> Yet to be graded
+## Assignment - 11 Completed on December 9th 2024 -> Scored 100/100
 
 By Ram Kumar Ippili
